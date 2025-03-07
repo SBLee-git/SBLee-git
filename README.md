@@ -3,7 +3,7 @@
 <h1>이성복 (Lee SeongBok) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div align="left">
-<h2>🛠️ 기술 스택</h2>
+🛠️ 기술 스택
 
   <h3>언어 & 프레임워크</h3>
   <p>
