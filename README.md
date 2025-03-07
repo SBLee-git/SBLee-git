@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%DeepLearning&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Specialist&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20DeepLearning&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Specialist&descAlignY=51&descAlign=62)
 
 
 
