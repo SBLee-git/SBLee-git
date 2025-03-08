@@ -54,8 +54,8 @@
   <a href="https://github.com/SBLee-git/Two_Kim_and_One_Lee">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=Two_Kim_and_One_Lee&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SBLee-git/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/SBLee-git/Wanted_DLproject">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=Wanted_DLproject&theme=tokyonight" />
   </a>
 </div>
 
