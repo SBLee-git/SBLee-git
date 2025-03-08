@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI,%20DeepLearning&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI,%20Deep%20Learning&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%&descAlignY=51&descAlign=62)
 
 <h1>이성복 (Lee SeongBok) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
