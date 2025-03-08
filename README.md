@@ -51,8 +51,8 @@
 ## 🌟 주요 프로젝트
 
 <div align="center">
-  <a href="https://github.com/SBLee-git/wanted_two_kim_and_one_lee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=wanted_two_kim_and_one_lee&theme=tokyonight" />
+  <a href="https://github.com/SBLee-git/Two_Kim_and_One_Lee">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=Two_Kim_and_One_Lee&theme=tokyonight" />
   </a>
   <a href="https://github.com/SBLee-git/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=project2&theme=tokyonight" />
