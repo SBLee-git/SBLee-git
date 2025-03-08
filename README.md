@@ -47,6 +47,49 @@
   </a>
 </div>
 
+<!-- 주요 프로젝트 -->
+## 🌟 주요 프로젝트
+
+<div align="center">
+  <a href="https://github.com/SBLee-git/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SBLee-git/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=project2&theme=tokyonight" />
+  </a>
+</div>
+
+<!-- 활동량 그래프 -->
+## 📈 활동량 그래프
+
+<div align="center">
+  <a href="https://github.com/SBLee-git">
+    <img src="https://activity-graph.herokuapp.com/graph?username=SBLee-git&theme=react-dark" alt="Activity Graph" />
+  </a>
+</div>
+
+<!-- 트로피 -->
+## 🏆 GitHub 트로피
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SBLee-git&theme=nord&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<!-- 현재 관심사 -->
+## 👀 현재 관심사
+
+- 🔭 대규모 언어 모델 (LLM) 파인튜닝 및 응용
+- 🌱 멀티모달 AI 시스템 개발
+- 🤔 AI 윤리 및 공정성
+- ⚡ 강화학습을 활용한 의사결정 최적화
+
+<!-- 푸터 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
 ★SBLee-git의 GITHUB ★
 
 - AI 트렌드
