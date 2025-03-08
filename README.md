@@ -33,17 +33,17 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/SBLee-git">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SBLee-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBLee-git&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/SBLee-git">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBLee-git&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
