@@ -59,7 +59,7 @@
   </a>
 </div>
 
-<!-- 활동량 그래프 -->
+<!-- 활동량 그래프 
 ## 📈 활동량 그래프
 
 <div align="center">
@@ -67,6 +67,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=SBLee-git&theme=react-dark" alt="Activity Graph" />
   </a>
 </div>
+-->
 
 <!-- 트로피 -->
 ## 🏆 GitHub 트로피
