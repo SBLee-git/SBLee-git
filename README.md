@@ -30,24 +30,6 @@
   </p>
 </div>
 
-<!-- GitHub 통계 -->
-## 📊 GitHub 통계
-
-<div align="center">
-  <a href="https://github.com/SBLee-git">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SBLee-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBLee-git&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/SBLee-git">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBLee-git&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-
 <!-- 주요 프로젝트 -->
 ## 🌟 주요 프로젝트
 
@@ -65,6 +47,24 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=Two_Kim_and_One_Lee&theme=tokyonight" />
   </a>
  
+</div>
+
+<!-- GitHub 통계 -->
+## 📊 GitHub 통계
+
+<div align="center">
+  <a href="https://github.com/SBLee-git">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SBLee-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBLee-git&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/SBLee-git">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBLee-git&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 <!-- 활동량 그래프 
