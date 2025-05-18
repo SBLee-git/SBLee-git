@@ -47,6 +47,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=Two_Kim_and_One_Lee&theme=tokyonight" />
   </a>
 
+  <a href="https://github.com/SBLee-git/2Dto3D-MCP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=2Dto3D-MCP&theme=tokyonight" />
+  </a>
+
   <a href="https://github.com/SBLee-git/2Dto3D-Streamlit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=2Dto3D-streamlit&theme=tokyonight" />
   </a>
