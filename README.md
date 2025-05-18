@@ -46,6 +46,10 @@
   <a href="https://github.com/SBLee-git/Two_Kim_and_One_Lee">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=Two_Kim_and_One_Lee&theme=tokyonight" />
   </a>
+
+  <a href="https://github.com/SBLee-git/2Dto3D-Streamlit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBLee-git&repo=2Dto3D-streamlit&theme=tokyonight" />
+  </a>
  
 </div>
 
@@ -92,7 +96,7 @@
 - 🔭 대규모 언어 모델 (LLM) 파인튜닝 및 응용
 - 🌱 멀티모달 AI 시스템 개발
 - 🤔 AI 윤리 및 공정성
-- ⚡ 강화학습을 활용한 의사결정 최적화
+
 
 <!-- 푸터 -->
 <div align="center">
